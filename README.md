@@ -30,10 +30,6 @@ Money laundering and terrorist financing (AML/CFT) risk cannot be observed direc
 | M2 · MLR-LAFT-ED | 722.76 |
 | M3 · MLR-LAFT-EED | 722.18 |
 
-Department effects substantially improve model fit. Posterior means of the latent risk were used to classify municipalities into risk terciles:
-
-![Municipal AML/CFT risk classification](figures/mapa_riesgo_laft.png)
-
 Full report (Spanish): [docs/informe_sem_bayesiano_laft.pdf](docs/informe_sem_bayesiano_laft.pdf)
 
 ## Repository structure
