@@ -39,7 +39,7 @@ Full report (Spanish): [informe_sem_bayesiano_laft.pdf](https://github.com/Alvar
 | `R/` | Full R script: data preparation, EDA, maps, Gibbs samplers, diagnostics, inference and classification |
 | `data/` | Transformed LAFT dataset and department shapefile |
 | `informe_sem_bayesiano_laft.pdf` | Full report (Spanish) |
-[Release v1.0](https://github.com/AlvaroGarcia02/bayesian-sem-aml-cft-risk-colombia/releases/latest)
+|Release |[Release v1.0](https://github.com/AlvaroGarcia02/bayesian-sem-aml-cft-risk-colombia/releases/latest)|
 
 ## How to reproduce
 
