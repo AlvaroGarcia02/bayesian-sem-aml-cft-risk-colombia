@@ -30,7 +30,7 @@ Money laundering and terrorist financing (AML/CFT) risk cannot be observed direc
 | M2 · MLR-LAFT-ED | 722.76 |
 | M3 · MLR-LAFT-EED | 722.18 |
 
-Full report (Spanish): [docs/informe_sem_bayesiano_laft.pdf](docs/informe_sem_bayesiano_laft.pdf)
+Full report (Spanish): [informe_sem_bayesiano_laft.pdf](https://github.com/AlvaroGarcia02/bayesian-sem-aml-cft-risk-colombia/blob/main/docs/informe_sem_bayesiano_laft.pdf)
 
 ## Repository structure
 
@@ -40,7 +40,7 @@ Full report (Spanish): [docs/informe_sem_bayesiano_laft.pdf](docs/informe_sem_ba
 | `data/` | Transformed LAFT dataset and department shapefile |
 | `docs/` | Full report |
 | `figures/` | Figures |
-| [Release v1.0](../../releases/tag/v1.0) | MCMC chains (~210 MB each) and municipal shapefile |
+[Release v1.0](https://github.com/AlvaroGarcia02/bayesian-sem-aml-cft-risk-colombia/releases/tag/v1.0)
 
 ## How to reproduce
 
