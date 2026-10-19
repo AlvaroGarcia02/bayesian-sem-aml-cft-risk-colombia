@@ -58,7 +58,8 @@ Full report (Spanish): [docs/informe_sem_bayesiano_laft.pdf](docs/informe_sem_ba
 ## Data sources
 
 - Muñoz Chamorro, D. V. (2024). *Desarrollo de modelo de aprendizaje estadístico para la identificación del riesgo de lavado de activos y financiación del terrorismo*. M.Sc. thesis, Universidad Nacional de Colombia. https://repositorio.unal.edu.co/handle/unal/87731 (variables transformed as described in Appendix D of the report).
-- Marco Geoestadístico Nacional 2018, DANE.
+- Geographic boundaries: Marco Geoestadístico Nacional (MGN) 2018, DANE. Department and municipal shapefiles (`SHP_MGN2018_INTGRD_DEPTO`, `SHP_MGN2018_INTGRD_MPIO`) downloaded from the DANE geoportal: https://www.dane.gov.co/files/geoportal-provisional/
+
 
 ## Authors
 
