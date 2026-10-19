@@ -39,12 +39,12 @@ Full report (Spanish): [informe_sem_bayesiano_laft.pdf](https://github.com/Alvar
 | `R/` | Full R script: data preparation, EDA, maps, Gibbs samplers, diagnostics, inference and classification |
 | `data/` | Transformed LAFT dataset and department shapefile |
 | `informe_sem_bayesiano_laft.pdf` | Full report (Spanish) |
-[Release v1.0](https://github.com/AlvaroGarcia02/bayesian-sem-aml-cft-risk-colombia/releases/tag/v1.0)
+[Release v1.0](https://github.com/AlvaroGarcia02/bayesian-sem-aml-cft-risk-colombia/releases/latest)
 
 ## How to reproduce
 
 1. Download this repository (**Code → Download ZIP**) and unzip it.
-2. Download the three chains and `SHP_MGN2018_INTGRD_MPIO.zip` from [Release v1.0](../../releases/tag/v1.0).
+2. Download the three chains and `SHP_MGN2018_INTGRD_MPIO.zip` from [Release v1.0](https://github.com/AlvaroGarcia02/bayesian-sem-aml-cft-risk-colombia/releases/latest).
 3. Place the three chains in the root folder, and unzip both shapefile zips inside `data/`.
 4. In R, set the working directory to the root folder and install the packages:
 ```r
